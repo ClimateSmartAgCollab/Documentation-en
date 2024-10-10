@@ -1,0 +1,41 @@
+{
+  "specs": [
+    {
+      "title": "Spec-Up-T Starterpack",
+      "spec_directory": "./spec",
+      "spec_terms_directory": "terms-definitions",
+      "output_path": "./docs",
+      "markdown_paths": [
+        "intro.md",
+        "terms-and-definitions-intro.md",
+        "example-markup-in-markdown.md",
+        "outro.md"
+      ],
+      "logo": "https://raw.githubusercontent.com/blockchainbird/spec-up-t-starter-pack/main/spec-up-t-starterpack/logo.svg",
+      "logo_link": "https://github.com/blockchainbird/spec-up-t",
+      "source": {
+        "host": "github",
+        "account": "ClimateSmartAgCollab",
+        "repo": "Documentation"
+      },
+      "external_specs": [],
+      "external_specs_repos": [],
+      "assets": [
+        {
+          "path": "/custom-assets/custom.css"
+        },
+        {
+          "path": "/custom-assets/custom-head.js",
+          "inject": "head"
+        },
+        {
+          "path": "/custom-assets/custom-body.js",
+          "inject": "body",
+          "module": true
+        }
+      ],
+      "katex": false,
+      "searchHighlightStyle": "ssi"
+    }
+  ]
+}
