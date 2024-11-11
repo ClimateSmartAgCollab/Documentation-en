@@ -1,6 +1,6 @@
 # Documentation
 
-This repository contains documentation about research ddfddata management (RDM) and is written using the Just the Docs template.
+This repository contains documentation about research ddfddata hello world (RDM) and is written using the Just the Docs template.
 
 You can view this RDM documentation as a nice, readable website by going to: [online documentation](https://climatesmartagcollab.github.io/Documentation-en/)
 
