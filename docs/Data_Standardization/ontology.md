@@ -132,7 +132,9 @@ Name | Prefix | Description
 [NCBI organismal classification](https://obofoundry.org/ontology/ncbitaxon.html) | NCBITaxon | "An ontology representation of the NCBI organismal taxonomy"
 [Mondo Disease Ontology](https://obofoundry.org/ontology/mondo.html) | MONDO | "A global community effort to harmonize multiple disease resources to yield a coherent merged ontology." It covers both human specific disease, non-human animal disease, and infectious disease, including zoonotic disease.
 [Phenotype And Trait Ontology](https://obofoundry.org/ontology/pato.html) | PATO | An ontology of phenotypic qualities (properties, attributes or characteristics).
-[Plant Ontology](https://archive.plantontology.org/) | PO | That "describes plant anatomy and morphology and stages of development for all plants."
+[Plant Ontology](https://archive.plantontology.org/) | PO | This ontology "describes plant anatomy and morphology and stages of development for all plants."
 [Plant Stress Ontology](https://obofoundry.org/ontology/pso.html) | PSO | "The Plant Stress Ontology describes biotic and abiotic stresses that a plant may encounter."
 [UBERON](https://obofoundry.org/ontology/uberon.html) | UBERON | "An integrated cross-species anatomy ontology covering animals and bridging multiple species-specific ontologies."
 [Vertebrate Breed Ontology](https://monarch-initiative.github.io/vertebrate-breed-ontology/) | VBO | "\[Is] restricted to non-human vertebrate animal species. It covers breeds and breed populations for livestock, companion animals, and laboratory animals."
+
+Authors: Damion Dooley
