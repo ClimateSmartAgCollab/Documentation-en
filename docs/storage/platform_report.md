@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Platform Report
@@ -59,7 +58,8 @@ Drilling down into each of these elements, there are key features and tasks soft
 * First, data management platforms that act both as stakeholder-facing “data portals” as well as provide a toolchain that improves interoperability and security through consistency and integrity checks of datasets against standards and fine-grained access and authentication policies.   
 * Next, dataset archive solutions, which work as hosting solutions for medium to large-sized datasets (hundreds of gigabytes to low number of terabytes) that improve discoverability and adoption by allowing for both private and public access, has means dataset for discoverability based on the schemas used in data harmonisation. 
 
-# Appendix 1 contains a faceted comparison of the data management platforms compared, emphasising the principles.
+# Appendix 1 
+Contains a faceted comparison of the data management platforms compared, emphasising the principles.
 
 ## A curation of tools
 
