@@ -41,7 +41,7 @@ Data should be created or exported into open, preservation-friendly file types w
 
  
 
-## **Data Analylsis**
+## **Data Analysis**
 
 Scripted analysis provides benefits compared to point-and-click analysis by enhancing reproducibility, transparency, and efficiency in data workflows. Scripts can be rerun from the beginning, allowing researchers to adjust parameters, update datasets, and refine methods without manually repeating each step—ensuring consistent and traceable results.
 
