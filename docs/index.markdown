@@ -6,7 +6,7 @@ layout: home
 title: Home
 nav_order: 1
 ---
-# Welcome to the Documentation Site
+# Welcome to the AgriDataGuidebook
 
 This is where you'll find all the resources that will be useful to members of the DataHub. 
 
@@ -20,7 +20,7 @@ Published in 2016, the FAIR guiding principles help researchers improve their di
 * I - Interoperability
 * R - Reusability
 
-This Documentation Site provides resources to help researchers ultimately improve FAIRness of their research outputs.
+This AgriDataGuidebook provides resources to help researchers ultimately improve FAIRness of their research outputs.
 
 {: .highlight }
 The free e-textbook [Research Data Management in the Canadian Context (2023)](https://ecampusontario.pressbooks.pub/canadardm/) is an excellent and comprehensive resource. 
