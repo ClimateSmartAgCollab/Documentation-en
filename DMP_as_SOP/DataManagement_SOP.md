@@ -1,6 +1,6 @@
 # Standard Operating Procedure (SOP) for Managing Data
 
-Version: 1.0
+Version: 1.0draft
 
 Effective Date: \<Insert Date\>
 
@@ -33,7 +33,6 @@ The Principal Investigator has named \<Data Manager Name\> who will be responsib
 
 Data should be created or exported into open, preservation-friendly file types whenever possible. Recommended formats include CSV for tabular data, TXT for text, and TIFF for images. If proprietary software is used, such as SPSS or MATLAB, an additional copy must be exported into a widely used open format to ensure long-term accessibility.
 
- 
 
 ## Data Analysis
 
@@ -137,7 +136,7 @@ For tabular datasets create a data schema which describes features about each co
 
 Store data schemas in appropriate folders, either within the folders containing data or, when used by multiple experiments and researchers, in the shared lab data storage.
 
-## Storage and Backup
+## Storage, Backup and Security
 
 During the duration of the project, active research data (raw and processed) will be stored following the 3-2-1 Backup method:
 
@@ -153,6 +152,11 @@ During the duration of the project, active research data (raw and processed) wil
    Ensure that at least one backup copy is stored off-site, outside your lab or institution.  
   * This protects against local disasters (e.g., fire, theft, flooding).  
   * Off-site options include secure cloud services or institutional backup systems.
+ 
+### Data and AI
+Integrating AI tools into research workflows introduces important risks, particularly around data security and confidentiality. When sensitive datasets are uploaded to external AI platforms, there is potential for unintended data exfiltration through logging, model training, or storage on servers outside approved environments. Some tools may also transmit data to third‑party processors or retain submitted content in ways that are not transparent to the user. Because of these risks, only AI tools approved by (\<Principal Investigator Name\>) that have undergone formal privacy, security, and compliance review should be used with research data, ensuring that information remains protected and handled according to institutional and regulatory requirements.
+
+## Data hand-off
 
 ### Implementation Notes
 
@@ -160,10 +164,9 @@ During the duration of the project, active research data (raw and processed) wil
 * Sensitive data must be encrypted before off-site or cloud storage.  
 * Document the backup schedule and storage locations in your data management plan.
 
-
 Following the completion of the project, or at significant points (such as publication) research data will be deposited in suitable archival repositories including:
 
- 
+
 - Borealis (institutional repository)
 - FigShare
 - GenBank
