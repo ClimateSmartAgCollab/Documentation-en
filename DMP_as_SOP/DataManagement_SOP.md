@@ -40,18 +40,16 @@ Scripted analysis provides benefits compared to point-and-click analysis by enha
 
 All scripts for analysis will be versioned and stored in relevant folders associated with the project. Analysis scripts should also be uploaded to the projects GitHub Repository: \<GitHub repository\>
 
-Consider following the [TIER protocol](https://www.projecttier.org/tier-protocol/protocol-4-0/) for analysis file structure.
+Researchers are encouraged to follow the [TIER protocol](https://www.projecttier.org/tier-protocol/protocol-4-0/) for analysis file structure.
  
 
 ## File Naming and Organization
 
 Establish a clear and consistent file organization system for storing your data. Start by creating a main folder for the research project, and within it, create subfolders to categorize different types of data, such as raw data, processed data, experimental protocols, and analysis scripts. Include subfolders for relevant literature, presentations, and manuscripts.
 
- 
 
 Incorporate the following project 3 letter code(s) in naming all folders and files.
 
- 
 
 \<XXX\> \- \<Project name\>
 
@@ -61,25 +59,21 @@ Incorporate the following project 3 letter code(s) in naming all folders and fil
 
 …
 
- 
 
 Recommended file naming convention:
 
- 
 
 \<XXX\>*\_*\<YYYY-MM-DD\>*\_\<ResearcherInitials\>\_\<details\>\_*\<*version*\>
 
- 
+* \<XXX\>: The project three letter code
 
-\<XXX\>: The project three letter code
+* \<YYYY-MM-DD\>: The date the file was created or updated, using the ISO standard year-month-day format.
 
-\<YYYY-MM-DD\>: The date the file was created or updated, using the ISO standard year-month-day format.
+* \<ResearcherInitials\>: The initials of the person who created or modified the file.
 
-\<ResearcherInitials\>: The initials of the person who created or modified the file.
+* \<details\>: optional, short, relevant information such as the experiment name, sample ID, instrument, variables etc.
 
-\<details\>: optional, short, relevant information such as the experiment name, sample ID, instrument, variables etc.
-
-\<version\> Optional version identifiers v01, v02 etc. if relevant.
+* \<version\> Optional version identifiers v01, v02 etc. if relevant.
  
 
 ### Raw Data
@@ -137,7 +131,7 @@ For tabular datasets create a data schema which describes features about each co
 Store data schemas in appropriate folders, either within the folders containing data or, when used by multiple experiments and researchers, in the shared lab data storage.
 
 ## Storage, Backup and Security
-
+### Data backup
 During the duration of the project, active research data (raw and processed) will be stored following the 3-2-1 Backup method:
 
 * 3 Copies of Data  
@@ -153,19 +147,32 @@ During the duration of the project, active research data (raw and processed) wil
   * This protects against local disasters (e.g., fire, theft, flooding).  
   * Off-site options include secure cloud services or institutional backup systems.
  
-### Data and AI
-Integrating AI tools into research workflows introduces important risks, particularly around data security and confidentiality. When sensitive datasets are uploaded to external AI platforms, there is potential for unintended data exfiltration through logging, model training, or storage on servers outside approved environments. Some tools may also transmit data to third‑party processors or retain submitted content in ways that are not transparent to the user. Because of these risks, only AI tools approved by (\<Principal Investigator Name\>) that have undergone formal privacy, security, and compliance review should be used with research data, ensuring that information remains protected and handled according to institutional and regulatory requirements.
-
-## Data hand-off
-
-### Implementation Notes
+#### Implementation Notes
 
 * Backups should be updated regularly and verified for integrity.  
 * Sensitive data must be encrypted before off-site or cloud storage.  
 * Document the backup schedule and storage locations in your data management plan.
 
-Following the completion of the project, or at significant points (such as publication) research data will be deposited in suitable archival repositories including:
+### Data and AI
+Integrating AI tools into research workflows introduces important risks, particularly around data security and confidentiality. 
 
+When sensitive datasets are uploaded to external AI platforms, there is potential for unintended data exfiltration through logging, model training, or storage on servers outside approved environments. Some tools may also transmit data to third‑party processors or retain submitted content in ways that are not transparent to the user. 
+
+Because of these risks, only AI tools approved by (\<Principal Investigator Name\>) that have undergone formal privacy, security, and compliance review should be used with research data, ensuring that information remains protected and handled according to institutional and regulatory requirements.
+
+### Data hand-off
+When research tasks or responsibilities transition between team members, data must be handed off in a complete and organized form. The transferring researcher is responsible for providing:
+
+* All relevant data files, stored and named according to project conventions.
+* Required documentation, including README files, schemas, protocols, and analysis scripts.
+* A brief summary of the current data status and any outstanding issues or known limitations.
+
+The receiving researcher must confirm that all files are accessible and complete. Any issues should be reported promptly to the Data Manager or Principal Investigator.
+
+Record each hand‑off in project documentation, including the names of both parties, date of transfer, and a brief description of the materials exchanged.
+
+### Project completion
+Following the completion of the project, or at significant points (such as publication) research data will be deposited in suitable archival repositories including:
 
 - Borealis (institutional repository)
 - FigShare
