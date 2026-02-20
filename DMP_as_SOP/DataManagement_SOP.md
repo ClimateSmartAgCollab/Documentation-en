@@ -60,7 +60,7 @@ Incorporate the following project 3 letter code(s) in naming all folders and fil
 …
 
 
-Recommended file naming convention:
+Recommended file naming convention which may need to be adjusted depending on character count limitations:
 
 
 \<XXX\>*\_*\<YYYY-MM-DD\>*\_\<ResearcherInitials\>\_\<details\>\_*\<*version*\>
