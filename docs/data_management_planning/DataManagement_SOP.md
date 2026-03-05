@@ -1,6 +1,9 @@
+---
 layout: default
 title: SOP for DMP
 parent: Data Management Plans
+nav_order: 2
+---
 
 
 # Standard Operating Procedure (SOP) for Managing Data
