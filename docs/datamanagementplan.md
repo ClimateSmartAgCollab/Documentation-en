@@ -9,7 +9,7 @@ nav_order: 2
 All Interdisciplinary Challenge Teams (ICTs) for the Genome Canada's Climate-Smart Agriculture and Food Systems Initiative have created a Data Management Plan (DMP) using the [DMP Assistant of the Digital Research Alliance of Canada (DRAC) ](https://dmp-pgd.ca/).
 
 {: .highlight }
-Share contents of your DMP with your team so all your project members know data management expectations.
+Share contents of your DMP with your team so all your project members know data management expectations. Look at [CS-DCC's example SOP](data_management_planning/DataManagement_SOP) for an example of how you can re-use the content. When writing your DMP copy relevant sections from this SOP into your DMP.
 
 Data Management Plans are one of the foundations of good research data management (RDM), an international best practice, and increasingly required by institutions and funders, including Canada's three major research funding agencies as outlined in their [Research Data Management Policy](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy). 
 
@@ -20,6 +20,8 @@ Be sure that all team members working in the project have the relevant informati
 Data Management Plans are living documents, they are expected to be updated and changed throughout the lifecycle of the project. The PDF versions of the DMP exported from DRAC DMP Assistant contain the last modified date to help researchers identify which revision they are referencing.
 
 ## Samples of lab data SOPs
+
+* [CS-DCC's example SOP for data management](data_management_planning/DataManagement_SOP). Researchers are invited to take this content and alter it to suit their lab practices.
 
 * [Schulte Moore Lab Data Management SOP](https://faculty.sites.iastate.edu/lschulte/lab-data-and-file-management-sops)
 * [Duke School of Medicine sample data SOP template (pdf)](https://medschool.duke.edu/sites/default/files/2021-10/data_management_sop_guidance_shared_resource.pdf)
