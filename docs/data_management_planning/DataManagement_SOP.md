@@ -1,3 +1,8 @@
+layout: default
+title: SOP for DMP
+parent: Data Management Plans
+
+
 # Standard Operating Procedure (SOP) for Managing Data
 
 Version: 1.0draft
@@ -169,16 +174,20 @@ When research tasks or responsibilities transition between team members, data mu
 
 The receiving researcher must confirm that all files are accessible and complete. Any issues should be reported promptly to the Data Manager or Principal Investigator.
 
-Record each hand‑off in project documentation, including the names of both parties, date of transfer, and a brief description of the materials exchanged.
+Record each hand-off in project documentation, including the names of both parties, date of transfer, and a brief description of the materials exchanged.
 
 ### Project completion
-Following the completion of the project, or at significant points (such as publication) research data will be deposited in suitable archival repositories including:
+Following the completion of the project by \<End Date\>, or at significant points (such as publication) research data will be deposited in suitable archival repositories including:
 
 - Borealis (institutional repository)
 - FigShare
 - GenBank
 - \<Repository Name\>
 
+### Data Retention
+Completion of the project is expected to be \<End Date\>.
+
+Data related to this project shall be retained past this time for \<expected lifespan e.g. 5 years\>.
 …
 
 which provides long-term preservation services. Data will be prepared for deposit by anonymizing sensitive information, converting to open formats (ex, CSV, TXT, TIFF), and verifying file integrity with checksums. Upon deposit, the repository will issue a persistent identifier (DOI), which will be cited in all publications and final reports.
