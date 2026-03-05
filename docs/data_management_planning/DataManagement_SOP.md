@@ -186,12 +186,13 @@ Following the completion of the project by \<End Date\>, or at significant point
 - FigShare
 - GenBank
 - \<Repository Name\>
+…
+
+which provides long-term preservation services. Data will be prepared for deposit by anonymizing sensitive information, converting to open formats (ex, CSV, TXT, TIFF), and verifying file integrity with checksums. Upon deposit, the repository will issue a persistent identifier (DOI), which will be cited in all publications and final reports.
 
 ### Data Retention
 Completion of the project is expected to be \<End Date\>.
 
 Data related to this project shall be retained past this time for \<expected lifespan e.g. 5 years\>.
-…
 
-which provides long-term preservation services. Data will be prepared for deposit by anonymizing sensitive information, converting to open formats (ex, CSV, TXT, TIFF), and verifying file integrity with checksums. Upon deposit, the repository will issue a persistent identifier (DOI), which will be cited in all publications and final reports.
 
