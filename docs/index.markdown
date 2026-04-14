@@ -8,9 +8,7 @@ nav_order: 1
 ---
 # Welcome to the AgriDataGuidebook
 
-This is where you'll find all the resources that will be useful to members of the DataHub. 
-
-If you would like to see more content hosted here let us know in the Data Hub Discussion board.
+Here you will find general resources for research data management (RDM) and was created as part of the [Climate-Smart Agri-Food Network](https://climatesmartagrifood.ca/) for its members.
 
 # The FAIR Data Principles
 
